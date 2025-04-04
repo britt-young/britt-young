@@ -4,7 +4,7 @@
 - 👀 I’m looking to collaborate on any business website design and/or development utilizing the MERN stack technologies
 - 📫 Collaboration or business inquiries can contact me via email at brittney.r.young82@gmail.com
 
-- 🎖️ Proud Army veteran (2012-2021) 
+- 🎖️ Proud Army veteran (2012-2025) 
 
 <!---
 britt-young/britt-young is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
