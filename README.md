@@ -1,4 +1,4 @@
-- 🙋🏼‍♀️ Hi, I’m Brittney (@britt-treece)
+- 🙋🏼‍♀️ Hi, I’m Brittney (@britt-young)
 - 🌐 Owner of Gulf Coast Web Designs & Development (www.gulfcoastwdd.com)
 - 💻 I’m passionate about guiding business owners into the digital space through brand design and brand/website development
 - ⚡ Full-stack MERN developer focusing on Node.js, React + Vite, and Tailwind projects
